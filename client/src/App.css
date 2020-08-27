@@ -1,0 +1,22 @@
+body {
+    background-image: url("./Assets/public-library.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: salmon;
+    
+}
+
+.card {
+    background-color: rgb(212, 198, 71);
+}
+    
+.table {
+    background-color: rgb(151, 206, 203);
+}
+
+th {
+    font-size: 20px;
+}
+a {
+    color:rgb(107, 15, 194);
+}
