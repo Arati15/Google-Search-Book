@@ -2,15 +2,16 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ![Google-Search-Book](./Assets/google-book.PNG)
-  
-
+---
 
   ## Description:
    Using this app user will be able to serach their favorite books with google books. This is a Mern application
 
- 
+---
 
+  ![Google-Search-Book](./Assets/google-book.PNG)
+  
+---
 
   ## Table of Contents:
   *[Installation](#Installation) 
