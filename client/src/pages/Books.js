@@ -22,7 +22,7 @@ class Books extends Component {
     API.search(query)
 
       .then((res) => {
-        console.log(res.data.items[0].volumeInfo)
+        //console.log(res.data.items[0].volumeInfo)
         this.setState({ result: res.data.items[0].volumeInfo })
       })
       .catch((err) => console.log(err));
